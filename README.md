@@ -1,6 +1,6 @@
-##👋 Hi, I’m María Pia
+## 👋 Hi, I’m María Pia
 <br>
-👀 I’m interested in Frontend dev
+# 👀 I’m interested in Frontend dev
 <br>
 🌱 I’m currently learning Next.js and gitLab
 <br>
