@@ -1,8 +1,12 @@
-++👋 Hi, I’m María Pia
+##👋 Hi, I’m María Pia
 <br>
 👀 I’m interested in Frontend dev
+<br>
 🌱 I’m currently learning Next.js and gitLab
-💞️ I’m looking to collaborate on proyects that use React.js, Javascript or Next.js
+<br>
+💞️ I’m looking to collaborate on proyects that use Javascript, React.js or Next.js
+<br>
+<br>
 📫 How to reach me: achigarpia@gmail.com
 
 
