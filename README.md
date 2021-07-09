@@ -4,9 +4,9 @@
 ### I´m a beginer Fron End Developer, stauding to be a Full Stack Developer.
 ### Descobering how the magic of programming meacks beautiful things in the web, is my passion!!
 
-🌱 ### I’m currently learning Next.js and gitLab
+🌱 I’m currently learning Next.js and gitLab
 <br>
-💞️ ### I’m looking to collaborate on proyects that use Javascript, React.js or Next.js
+💞️ I’m looking to collaborate on proyects that use Javascript, React.js or Next.js
 <br>
 
 ### Find me:
@@ -15,10 +15,12 @@
 <img alt="Logo" align="left" src="https://user-images.githubusercontent.com/76546697/121098434-37e5e080-c7cc-11eb-8668-17dc3a3babae.png" width="2%" /> 
 
 https://www.linkedin.com/in/maria-pia-achigar-1933581b8/
-
 <br>
 📫 : achigarpia@gmail.com
+
 <br>
+
+
 # Skills 
 
 [![React Follow](https://img.shields.io/badge/React-004aad?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
