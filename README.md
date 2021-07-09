@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Next.js and gitLab
 <br>
-💞️ I’m looking to collaborate on proyects that use Javascript, React.js or Next.js
+💞️ I’m looking to collaborate on proyects that use Javascript, React.js, Next.js
 <br>
 
 ### Find me:
