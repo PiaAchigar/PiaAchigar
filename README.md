@@ -1,4 +1,4 @@
-## Hi there! My name is Maria Pia
+## Hi there! My name is María Pía
 
 # About me
 ### I´m a beginner Front End Developer, studing to be a Full Stack Developer.
