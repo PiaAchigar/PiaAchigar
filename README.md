@@ -1,8 +1,8 @@
 ## Hi there! My name is Maria Pia
 
 # About me
-### I´m a beginner Front End Developer, stauding to be a Full Stack Developer.
-### Descobering how the magic of programming meacks beautiful things in the web, is my passion!!
+### I´m a beginner Front End Developer, studing to be a Full Stack Developer.
+### Discovering how the magic of programming makes beautiful things in the web, is my passion!!
 
 🌱 I’m currently learning Next.js and gitLab
 <br>
