@@ -4,7 +4,7 @@
 ### I´m a beginner Front End Developer, studing to be a Full Stack Developer.
 ### Discovering how the magic of programming makes beautiful things in the web, is my passion!!
 
-🌱 I’m currently learning Next.js and gitLab
+🌱 I’m currently learning Next.js
 <br>
 💞️ I’m looking to collaborate on proyects that use Javascript, React.js, Next.js
 <br>
