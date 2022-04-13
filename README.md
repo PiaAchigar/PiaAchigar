@@ -22,7 +22,8 @@ https://www.linkedin.com/in/maria-pia-achigar-1933581b8/
 
 
 # Skills 
-
+[![Styled Components Follow](https://img.shields.io/badge/StyledComponents-cd74b2?style=for-the-badge&logo=styledcomponents&logoColor=withe&labelColor=101010)](#)
+<br>
 [![React Follow](https://img.shields.io/badge/React-004aad?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
