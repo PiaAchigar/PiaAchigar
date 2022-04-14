@@ -4,7 +4,7 @@
 ### I´m a beginner Front End Developer, studing to be a Full Stack Developer.
 ### Discovering how the magic of programming makes beautiful things in the web, is my passion!!
 
-🌱 I’m currently studying Backend programming in CoderHouse carrear.
+🌱 I’m currently studying Backend programming in CoderHouse.
 <br>
 💞️ I’m looking to participate on proyects whith Vanilla Javascript, React.js, Next.js
 <br>
