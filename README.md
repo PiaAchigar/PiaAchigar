@@ -34,7 +34,7 @@ https://www.linkedin.com/in/maria-pia-achigar-1933581b8/
 </br>
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 </br>
-[![Node.Js Follow](https://img.shields.io/badge/NODE.JS-68a063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010))](#)
+[![Node.Js Follow](https://img.shields.io/badge/NODE.JS-68a063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
 </br>
 ... and many more will come! ...
 
