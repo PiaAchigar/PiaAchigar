@@ -1,10 +1,10 @@
 ## Hi there! My name is María Pía
 
 # About me
-### I´m a beginner Front End Developer, studing to be a Full Stack Developer.
+### I´m a Front End Developer, studing to be a Full Stack Developer.
 ### Discovering how the magic of programming makes beautiful things in the web, is my passion!!
 
-🌱 I’m currently studying Backend programming in CoderHouse.
+🌱 I’m currently studying Python in UTN.
 <br>
 💞️ I’m looking to participate on proyects whith Vanilla Javascript, React.js, Next.js
 <br>
@@ -33,6 +33,8 @@ https://www.linkedin.com/in/maria-pia-achigar-1933581b8/
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 </br>
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+</br>
+[![Node.Js Follow](https://img.shields.io/badge/NODE.JS-68a063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010))](#)
 </br>
 ... and many more will come! ...
 
