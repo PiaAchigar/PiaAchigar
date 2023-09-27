@@ -4,7 +4,7 @@
 ### I´m a Front End Developer, studing to be a Full Stack Developer.
 ### Discovering how the magic of programming makes beautiful things in the web, is my passion!!
 
-🌱 I’m currently studying Python in UTN.
+🌱 I’m currently studying Data Science in Digital House.
 <br>
 💞️ I’m looking to participate on proyects whith Vanilla Javascript, React.js, Next.js
 <br>
@@ -22,7 +22,8 @@ https://www.linkedin.com/in/maria-pia-achigar-1933581b8/
 
 
 # Skills 
-
+[![React Follow](https://img.shields.io/badge/Python-004aad?style=for-the-badge&logo=python&logoColor=white&labelColor=ffff00)](#)
+<br>
 [![React Follow](https://img.shields.io/badge/React-004aad?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
