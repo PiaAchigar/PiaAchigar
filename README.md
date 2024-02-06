@@ -6,7 +6,7 @@
 
 🌱 I’m currently studying Data Science in Digital House.
 <br>
-💞️ I’m looking to participate on proyects whith Vanilla Javascript, React.js, Next.js
+💞️ I’m looking to participate on proyects whith Vanilla Javascript, React.js, Node
 <br>
 
 ### Find me:
@@ -22,6 +22,8 @@ https://www.linkedin.com/in/maria-pia-achigar-1933581b8/
 
 
 # Skills 
+[![Blockly Follow](https://img.shields.io/badge/Blockly.js-Bockly.js-blue)](#)
+<br>
 [![Python Follow](https://img.shields.io/badge/Python-004aad?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
 <br>
 [![React Follow](https://img.shields.io/badge/React-004aad?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
