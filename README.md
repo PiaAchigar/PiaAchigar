@@ -14,7 +14,7 @@
 
 <img alt="Logo" align="left" src="https://user-images.githubusercontent.com/76546697/121098434-37e5e080-c7cc-11eb-8668-17dc3a3babae.png" width="2%" /> 
 
-https://www.linkedin.com/in/maria-pia-achigar-1933581b8/
+https://www.linkedin.com/in/pia-achigar/
 <br>
 📫 : achigarpia@gmail.com
 
