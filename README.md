@@ -4,9 +4,9 @@
 ### I´m a Front End Developer, studing to be a Full Stack Developer.
 ### Discovering how the magic of programming makes beautiful things in the web, is my passion!!
 
-🌱 I’m currently coding an IDE with React/ts.
+🌱 I’m currently coding an E-commerce with React/ts.
 <br>
-💞️ I’m looking to participate on proyects whith Vanilla Javascript, React.js, Next, Node
+💞️ I'm looking to participate in projects using Vanilla JavaScript, React.js, or for automation with MCP Protocol or n8n.
 <br>
 
 ### Find me:
