@@ -6,7 +6,7 @@
 
 🌱 I’m currently coding an E-commerce with React/ts.
 <br>
-💞️ I'm looking to participate in projects using Vanilla JavaScript, React.js, or for automation with MCP Protocol or n8n.
+💞️ I'm looking to participate in projects using Vanilla JavaScript / Typescript with React.js, or for automation with MCP Protocol or n8n.
 <br>
 
 ### Find me:
