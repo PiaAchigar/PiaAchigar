@@ -20,13 +20,14 @@
 
 **Frontend**
 
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=101010)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=101010)](#)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)](#)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white&labelColor=101010)](#)
-[![Blockly.js](https://img.shields.io/badge/-Blockly.js-4285F4?style=for-the-badge&labelColor=101010)](#)
+[![Blockly.js](https://img.shields.io/badge/-Blockly.js-4285F4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTMgNGg3LjJhMi44IDIuOCAwIDEgMSA1LjYgMEgyMXY2LjJhMi44IDIuOCAwIDEgMCAwIDUuNlYyMUgzVjR6Ii8+PC9zdmc+&logoColor=white&labelColor=101010)](#)
 
 **Backend & scripting**
 
@@ -43,6 +44,7 @@
 [![LM Studio](https://img.shields.io/badge/-LM%20Studio-6E56CF?style=for-the-badge&logo=lmstudio&logoColor=white&labelColor=101010)](https://lmstudio.ai/)
 
 <sub>... and many more will come!</sub>
+
 ---
 
 ### 📫 Find me
