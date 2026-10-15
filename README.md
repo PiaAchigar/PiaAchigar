@@ -42,6 +42,7 @@
 [![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=101010)](https://claude.com/claude-code)
 [![LM Studio](https://img.shields.io/badge/-LM%20Studio-6E56CF?style=for-the-badge&logo=lmstudio&logoColor=white&labelColor=101010)](https://lmstudio.ai/)
 
+<sub>... and many more will come!</sub>
 ---
 
 ### 📫 Find me
@@ -50,4 +51,4 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:achigarpia@gmail.com)
 [![Website](https://img.shields.io/badge/-My%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://www.piadev.com.ar)
 
-<sub>... and many more will come!</sub>
+
